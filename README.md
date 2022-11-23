@@ -47,7 +47,7 @@ If you have any error popping up follow these steps:
 - Reopen the app
  
 ## Funding
-I am doing this in my freetime, if you want to support me and see more updates you can buy me a coffe -> https://ko-fi.com/chococlat
+If you want to support me you can buy me a coffe -> https://ko-fi.com/chococlat .
 Any help is greatly appreciated. 
 
 
