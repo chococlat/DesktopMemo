@@ -4,14 +4,14 @@
 
 The foundation of this app is lightness and portability. The notes are printed directly on the desktop background, and once the app is closed they remain there. This way you can always see the notes without there being a resource-consuming background app.
 
-### At the moment the possible options are:
+## At the moment the possible options are:
 
 - Adding notes, in different colors
 - Clearing all the notes with a button
 - Setting a base desktop canvas for the notes to be printed.
 - Hiding all the notes, for privacy reasons
 
-### Known Limitations
+## Known Limitations
 
 The app is currently working properly only in this precise setup:
 
@@ -21,7 +21,7 @@ The app is currently working properly only in this precise setup:
 
 All of these problems will be solved as soon as i see that people want to use the app. I created the app for my setup, so if i am the only one using it i dont really care to change it.
 
-### Future upgrades
+## Future features
 
 - The ability to remove notes one by one
 - The ability to change the font
@@ -29,13 +29,13 @@ All of these problems will be solved as soon as i see that people want to use th
 - The ability to draw on the notes
 - A complete management windows to move and edit the notes
 
-### Setup
+## Setup
 
 - Download the whole folder and put it wherever you want
 - Run DesktopMemo.exe
 
 
-### Troubleshooting
+## Troubleshooting
 
 If you have any error popping up follow these steps:
 
