@@ -1,0 +1,9 @@
+This app uses prebuilt binaries of the FreeImage Library.
+
+You can find both the binaries and the source code at this link:
+
+https://freeimage.sourceforge.io/download.html
+
+You can find the full FreeImage Public License at this link:
+
+https://freeimage.sourceforge.io/freeimage-license.txt
