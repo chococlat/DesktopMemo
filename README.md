@@ -21,7 +21,7 @@ The app is currently working properly only in this precise setup:
 
 All of these problems will be solved as soon as i see that people want to use the app. I created the app for my setup, so if i am the only one using it i dont really care to change it.
 
-## Future features
+## Possible future features
 
 - The ability to remove notes one by one
 - The ability to change the font
