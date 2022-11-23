@@ -9,6 +9,16 @@ The foundation of this app is lightness and portability. The notes are printed d
 - Setting a base desktop canvas for the notes to be printed.
 - Hiding all the notes, for privacy reasons
 
+### Known Limitations
+
+The app is currently working properly only in this precise setup:
+
+- You must have a static wallpaper, not a slideshow, not a solid color.
+- If you want the notes to allign with the preview you need to use a 1920x1080 monitor.
+- If you have more monitors you cant use them to add the notes, even though they will appear after you added them in your main monitor.
+
+All of these problems will be solved as soon as i see that people want to use the app. I created the app for my setup, so if i am the only one using it i dont really care to change it.
+
 ### Future upgrades
 
 - The ability to remove notes one by one
