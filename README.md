@@ -29,4 +29,22 @@ All of these problems will be solved as soon as i see that people want to use th
 - The ability to draw on the notes
 - A complete management windows to move and edit the notes
 
+### Setup
+
+- Download the whole folder and put it wherever you want
+- Run DesktopMemo.exe
+
+
+### Troubleshooting
+
+If you have any error popping up follow these steps:
+
+- Remove these files if you find them:
+  - ft
+  - Any file named Default.(any format)
+- Set your wallpaper again in the windows settings
+- Reopen the app
+ 
+
+
 
