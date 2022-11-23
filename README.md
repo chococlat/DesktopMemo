@@ -1,5 +1,7 @@
 # DesktopMemo
 
+![enter image description here](https://github.com/chococlat/DesktopMemo/blob/main/demo.gif)
+
 The foundation of this app is lightness and portability. The notes are printed directly on the desktop background, and once the app is closed they remain there. This way you can always see the notes without there being a resource-consuming background app.
 
 ### At the moment the possible options are:
@@ -27,4 +29,4 @@ All of these problems will be solved as soon as i see that people want to use th
 - The ability to draw on the notes
 - A complete management windows to move and edit the notes
 
-![enter image description here](https://github.com/chococlat/DesktopMemo/blob/main/demo.gif)
+
