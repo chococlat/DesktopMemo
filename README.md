@@ -17,3 +17,4 @@ The foundation of this app is lightness and portability. The notes are printed d
 - The ability to draw on the notes
 - A complete management windows to move and edit the notes
 
+![enter image description here](https://github.com/chococlat/DesktopMemo/blob/main/demo.gif)
