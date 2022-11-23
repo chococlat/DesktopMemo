@@ -39,12 +39,16 @@ All of these problems will be solved as soon as i see that people want to use th
 
 If you have any error popping up follow these steps:
 
+- Close the app
 - Remove these files if you find them:
   - ft
   - Any file named Default.(any format)
 - Set your wallpaper again in the windows settings
 - Reopen the app
  
+## Funding
+I am doing this in my freetime, if you want to support me and see more updates you can buy me a coffe -> https://ko-fi.com/chococlat
+Any help is greatly appreciated. 
 
 
 
