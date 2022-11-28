@@ -27,7 +27,7 @@ All of these problems will be solved as soon as i see that people want to use th
 - The ability to change the font
 - The ability to change the size of the note
 - The ability to draw on the notes
-- A complete management windows to move and edit the notes
+- A complete management window to move and edit the notes
 
 ## Setup
 
