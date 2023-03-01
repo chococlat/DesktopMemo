@@ -45,10 +45,7 @@ If you have any error popping up follow these steps:
   - Any file named Default.(any format)
 - Set your wallpaper again in the windows settings
 - Reopen the app
- 
-## Funding
-If you want to support me you can buy me a coffe -> https://ko-fi.com/chococlat .
-Any help is greatly appreciated. 
+
 
 
 
