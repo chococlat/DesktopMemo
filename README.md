@@ -19,7 +19,6 @@ The app is currently working properly only in this precise setup:
 - If you want the notes to allign with the preview you need to use a 1920x1080 monitor, and the scale of the system must be 100%.
 - If you have more monitors you can't use them to add the notes, even though they will appear after you added them in your main monitor.
 
-All of these problems will be solved as soon as i see that people want to use the app. I created the app for my setup, so if i am the only one using it i dont really care to change it.
 
 ## Possible future features
 
